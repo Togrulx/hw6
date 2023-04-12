@@ -1,0 +1,12 @@
+/Users/togrultalibov/Desktop/practise2/practise.Core/bin/Debug/net7.0/practise.Core.deps.json
+/Users/togrultalibov/Desktop/practise2/practise.Core/bin/Debug/net7.0/practise.Core.dll
+/Users/togrultalibov/Desktop/practise2/practise.Core/bin/Debug/net7.0/practise.Core.pdb
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.dll
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/refint/practise.Core.dll
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/practise.Core.pdb
+/Users/togrultalibov/Desktop/practise2/practise.Core/obj/Debug/net7.0/ref/practise.Core.dll
